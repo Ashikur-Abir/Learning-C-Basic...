@@ -49,4 +49,4 @@ int main()
     cin >> n;
     queens(0);
     return 0;
-}
+} 
